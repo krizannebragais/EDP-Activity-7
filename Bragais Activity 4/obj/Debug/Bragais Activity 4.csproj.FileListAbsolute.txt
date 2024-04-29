@@ -1,0 +1,47 @@
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\Bragais Activity 4.exe.config
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\Bragais Activity 4.exe
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\Bragais Activity 4.pdb
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais Activity 4.csproj.AssemblyReference.cache
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais_Activity_4.Properties.Resources.resources
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais Activity 4.csproj.GenerateResource.cache
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais Activity 4.csproj.CoreCompileInputs.cache
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais Activity 4.exe
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais Activity 4.pdb
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais_Activity_4.PasswordRecovery.resources
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\Google.Protobuf.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\MySql.Data.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Buffers.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.IO.Pipelines.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Memory.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\ZstdSharp.dll
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\Google.Protobuf.pdb
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\Google.Protobuf.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\MySql.Data.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Buffers.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.IO.Pipelines.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Memory.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais_Activity_4.SignUp.resources
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais Activity 4.csproj.CopyComplete
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais_Activity_4.employee.resources
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais_Activity_4.backup.resources
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais_Activity_4.Login.resources
+C:\Users\krizanne\source\repos\Bragais Activity 4\Bragais Activity 4\obj\Debug\Bragais_Activity_4.Dashboard.resources
